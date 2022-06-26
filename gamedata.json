@@ -1,0 +1,162 @@
+{
+  "game_data": {
+    "stages": [
+      {
+        "stage": "1",
+        "stage_name": "dark space",
+        "enemy_total" :  10,
+        "enemys": [
+          {
+            "trigerX": 100,
+            "hp": 50,
+            "speed": 10,
+            "type": 0,
+            "power": 120,
+            "pattern": 0,
+            "x": 850,
+            "y": 20
+          },
+          {
+            "trigerX": 105,
+            "hp": 50,
+            "speed": 10,
+            "type": 0,
+            "power": 120,
+            "pattern": 0,
+            "x": 850,
+            "y": 20
+          },
+          {
+            "trigerX": 110,
+            "hp": 50,
+            "speed": 10,
+            "type": 0,
+            "power": 120,
+            "pattern": 0,
+            "x": 850,
+            "y": 20
+          },
+          {
+            "trigerX": 115,
+            "hp": 50,
+            "speed": 10,
+            "type": 0,
+            "power": 120,
+            "pattern": 0,
+            "x": 850,
+            "y": 20
+          },
+          {
+            "trigerX": 120,
+            "hp": 50,
+            "speed": 10,
+            "type": 0,
+            "power": 120,
+            "pattern": 0,
+            "x": 850,
+            "y": 20
+          },
+          {
+            "trigerX": 200,
+            "hp": 50,
+            "speed": 10,
+            "type": 0,
+            "power": 120,
+            "pattern": 0,
+            "x": 850,
+            "y": 320
+          },
+          {
+            "trigerX": 210,
+            "hp": 50,
+            "speed": 10,
+            "type": 0,
+            "power": 120,
+            "pattern": 0,
+            "x": 850,
+            "y": 320
+          },
+          {
+            "trigerX": 220,
+            "hp": 50,
+            "speed": 10,
+            "type": 0,
+            "power": 120,
+            "pattern": 0,
+            "x": 850,
+            "y": 320
+          },
+          {
+            "trigerX": 230,
+            "hp": 50,
+            "speed": 10,
+            "type": 0,
+            "power": 120,
+            "pattern": 0,
+            "x": 850,
+            "y": 320
+          },
+          {
+            "trigerX": 240,
+            "hp": 50,
+            "speed": 10,
+            "type": 0,
+            "power": 120,
+            "pattern": 0,
+            "x": 850,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "stage": "2",
+        "stage_name": "new ocean",
+        "enemy_total": 20,
+        "enemys": [
+          {
+            "hp": 200,
+            "speed": 30,
+            "type": 1,
+            "power": 50,
+            "pattern": 1,
+            "x": 10,
+            "y": 10
+          }
+        ]
+      },
+      {
+        "stage": "3",
+        "stage_name": "fire scull",
+        "enemy_total": 1,
+        "enemys": [
+          {
+            "hp": 5000,
+            "speed": 5,
+            "type": 0,
+            "power": 320,
+            "pattern": 2,
+            "x": 80,
+            "y": 30
+          }
+        ]
+      }
+    ],
+    "patterns": [
+      {
+        "pattern_name": "zigzag",
+        "location": [ 0, 10, 0, 10, 0, 10, 0, 10, 0, 10, 0, 10, 0, 10, 0, 10, 0, 10, 0, -10, 0, -10, 0, -10, 0, -10, 0, -10, 0, -10, 0, -10, 0, -10, 0, -10 ]
+      },
+      {
+        "pattern_name": "downup",
+        "location": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 10, 0, 5, 0, 5, 0, 0, 0, 0, 0, -5, 0, -5, 0, -10, 0, -10, 0, 0 ]
+      },
+      {
+        "pattern_name": "circle",
+        "location": [ 6,0,5, 1, 4, 2, 3, 3, 2, 4, 1, 5, 0, 6, -1, 7, -2, 8, -3, 9, -10, -20, -11, -5, -12, -5, -13, -5, -14, -5, -15, -5, 0, 0, 0, 0 ]
+      }
+    ]
+
+  }
+}
+  
+  

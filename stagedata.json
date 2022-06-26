@@ -1,0 +1,141 @@
+{
+  "stage_data": {
+    "stages": [
+      {
+        "stage": "1",
+        "stage_name": "dark space",
+
+        "enemys": [
+          {
+            "object_name": "red",
+            "trigerX": 60,
+            "x": 850,
+            "y": 20
+          },
+          {
+            "object_name": "red",
+            "trigerX": 65,
+            "x": 850,
+            "y": 20
+          },
+          {
+            "object_name": "red",
+            "trigerX": 70,
+            "x": 850,
+            "y": 20
+          },
+          {
+            "object_name": "red",
+            "trigerX": 75,
+            "x": 850,
+            "y": 20
+          },
+          {
+            "object_name": "red",
+            "trigerX": 100,
+            "x": 850,
+            "y": 300
+          },
+          {
+            "object_name": "red",
+            "trigerX": 105,
+            "x": 850,
+            "y": 300
+          },
+          {
+            "object_name": "red",
+            "trigerX": 110,
+            "x": 850,
+            "y": 300
+          },
+          {
+            "object_name": "red",
+            "trigerX": 115,
+            "x": 850,
+            "y": 300
+          },
+          {
+            "object_name": "yellow",
+            "trigerX": 160,
+            "x": 850,
+            "y": 70
+          },
+          {
+            "object_name": "yellow",
+            "trigerX": 165,
+            "x": 850,
+            "y": 70
+          },
+          {
+            "object_name": "yellow",
+            "trigerX": 170,
+            "x": 850,
+            "y": 70
+          },
+          {
+            "object_name": "yellow",
+            "trigerX": 175,
+            "x": 850,
+            "y": 70
+          },
+          {
+            "object_name": "yellow",
+            "trigerX": 180,
+            "x": 850,
+            "y": 70
+          },
+          {
+            "object_name": "yellow",
+            "trigerX": 200,
+            "x": 850,
+            "y": 370
+          },
+          {
+            "object_name": "yellow",
+            "trigerX": 205,
+            "x": 850,
+            "y": 370
+          },
+          {
+            "object_name": "yellow",
+            "trigerX": 210,
+            "x": 850,
+            "y": 370
+          },
+          {
+            "object_name": "yellow",
+            "trigerX": 215,
+            "x": 850,
+            "y": 370
+          },
+          {
+            "object_name": "yellow",
+            "trigerX": 220,
+            "x": 850,
+            "y": 370
+          },
+          {
+            "object_name": "red",
+            "trigerX": 235,
+            "x": 850,
+            "y": 300
+          },
+          {
+            "object_name": "red",
+            "trigerX": 240,
+            "x": 850,
+            "y": 300
+          },
+          {
+            "object_name": "red",
+            "trigerX": 245,
+            "x": 850,
+            "y": 300
+          }
+        ]
+      }
+    ]
+  }
+}
+  
+  
